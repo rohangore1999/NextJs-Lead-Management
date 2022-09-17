@@ -1,4 +1,4 @@
-Lead Management using NEXTJS, TAILWINDCSS, NEXTAUTH(Google Provider with specific domain)
+# Lead Management using NEXTJS, TAILWINDCSS, NEXTAUTH(Google Provider with specific domain)
 
 ------------------------------------------------------------------------------------------------------------
 
